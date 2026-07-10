@@ -9,4 +9,4 @@ assets:
 - name: remastered/xw_ex_5050.wpn/-abc0.dds
   method: copy
   source:
-  - name: remastered/xw_ex_5050.wpn/-abc0.dds
+  - name: remastered/xw_ex_5050.wpn/-abc0.ddd
